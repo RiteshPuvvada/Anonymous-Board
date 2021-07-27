@@ -1,0 +1,37 @@
+{
+	"name": "Anonymous-Board",
+	"version": "0.0.1",
+	"description": "InfoSec project for freeCodeCamp",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"dev" : "nodemon server.js"
+	},
+	"author": {"name": "Ritesh Puvvada","email": "riteshpuvvada@gmail.com"},
+	"dependencies": {
+		"body-parser": "^1.15.2",
+		"chai": "^4.2.0",
+		"chai-http": "^3.0.0",
+		"cors": "^2.8.1",
+		"dotenv": "^8.6.0",
+		"express": "^4.14.0",
+		"helmet": "^3.1.0",
+		"mocha": "^3.2.0",
+		"mongodb": "^4.0.1",
+		"mongoose": "^5.13.3",
+		"nodemon": "^2.0.12"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-project-messageboard"
+	},
+	"keywords": [
+		"node",
+		"express",
+		"mocha",
+		"chai",
+		"helmet",
+		"anonymous"
+	],
+	"license": "MIT"
+}
