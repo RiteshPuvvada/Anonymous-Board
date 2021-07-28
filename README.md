@@ -44,4 +44,4 @@ $ npm start or npm run dev
 ```
 ## Test board:
 
-- [/b/General/](https://helpful-rectangular-apparatus.glitch.me/b/General/)
+- [/b/General/](https://helpful-rectangular-apparatus.glitch.me/b/General)
