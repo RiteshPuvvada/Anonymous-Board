@@ -5,7 +5,7 @@
 </div>
 <hr>
 
-# Project Anonymous anonymous Board
+# Project Anonymous Board
 
 - Add `.env` file to the project
 
